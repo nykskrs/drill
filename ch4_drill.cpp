@@ -3,7 +3,6 @@
 //3.    if they are equal print they are equal
 //4.    change the ints to doubles
 //5.    change the program so that it writes out the numbers are almost equal if the two numbers differ by less than
-//      cant do sir
 //6.    change the body of the loop so it reads one double
 //      define two variables to keep track which is the smaller
 //      each time write to the screen "the biggest so far" "the smallest so far"
