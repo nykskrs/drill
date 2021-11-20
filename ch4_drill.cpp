@@ -81,11 +81,6 @@ int main()
         sum += to_meter(number, unit);
     }
 
-    //2 jegyű tizedes törtek lesznek
-    // cout.setf(ios::fixed);
-    // cout.setf(ios::showpoint);
-    // cout.precision(2);
-
     cout << "The largest value: " << to_meter(largest, unit) << endl;
     cout << "The smallest value: " << to_meter(smallest, unit) << endl;
     cout << "The sum of all entered numbers: " << sum << endl;
